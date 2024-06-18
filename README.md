@@ -73,3 +73,12 @@
    - Refine the interface and error handling based on user feedback and testing results.
 
 By following these steps and utilizing the outlined tools and technologies, developers can successfully implement the project for image captioning and tag extraction using Google's Generative AI service via a user-friendly Streamlit interface. This approach ensures that both technical functionalities and user experience considerations are addressed effectively.
+
+**References:**
+
+- Streamlit Documentation. Retrieved from [https://docs.streamlit.io/](https://docs.streamlit.io/)
+- Python Imaging Library (PIL). Retrieved from [https://python-pillow.org/](https://python-pillow.org/)
+- Google Generative AI Documentation. Retrieved from [https://cloud.google.com/gemini](https://cloud.google.com/gemini)
+- Heroku Documentation. Retrieved from [https://devcenter.heroku.com/](https://devcenter.heroku.com/)
+- GitHub Documentation. Retrieved from [https://docs.github.com/](https://docs.github.com/)
+
