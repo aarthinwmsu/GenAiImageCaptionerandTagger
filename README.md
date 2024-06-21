@@ -1,5 +1,16 @@
 # GenAI Image Captioner and Tagger
 
+## Implementation
+**Clone**
+`git clone <repo URL>`
+
+**Installation:**
+`pip install requirements.txt`
+
+**Run the app**
+`python -m streamlit run app.py`
+
+
 ## Tools and Technologies Planned for the Project
 
 1. **Streamlit**: For building the web application interface.
@@ -73,6 +84,7 @@
    - Refine the interface and error handling based on user feedback and testing results.
 
 By following these steps and utilizing the outlined tools and technologies, developers can successfully implement the project for image captioning and tag extraction using Google's Generative AI service via a user-friendly Streamlit interface. This approach ensures that both technical functionalities and user experience considerations are addressed effectively.
+
 
 **References:**
 
